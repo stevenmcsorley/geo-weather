@@ -1,0 +1,27 @@
+{
+  "name": "geo-weather",
+  "version": "1.0.0",
+  "description": "Node, Gulp, slush, phonegap weather application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stevenmcsorley/geo-weather.git"
+  },
+  "keywords": [
+    "Node",
+    "Gulp",
+    "slush",
+    "phonegap",
+    "weather",
+    "application"
+  ],
+  "author": "Steven McSorley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/stevenmcsorley/geo-weather/issues"
+  },
+  "homepage": "https://github.com/stevenmcsorley/geo-weather#readme"
+}
